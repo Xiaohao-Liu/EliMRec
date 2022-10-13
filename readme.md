@@ -28,3 +28,17 @@ The hyper-parameters used to train the models are set as default in the `conf/El
 ```sh
 python3 main.py --recommender="EliMRec" --data.input.dataset=tiktok
 ```
+
+## Citation
+
+```
+@inproceedings{EliMRec,
+author = {Liu, Xiaohao and Tao, Zhulin and Shao, Jiahong and Yang, Lifang and Huang, Xianglin},
+title = {EliMRec: Eliminating Single-Modal Bias in Multimedia Recommendation},
+year = {2022},
+publisher = {Association for Computing Machinery},
+doi = {10.1145/3503161.3548404},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+series = {MM '22}
+}
+```
