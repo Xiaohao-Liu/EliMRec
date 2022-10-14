@@ -33,7 +33,11 @@ python3 main.py --recommender="EliMRec" --data.input.dataset=tiktok
 
 ```
 @inproceedings{EliMRec,
-author = {Liu, Xiaohao and Tao, Zhulin and Shao, Jiahong and Yang, Lifang and Huang, Xianglin},
+author = {Liu, Xiaohao and 
+          Tao, Zhulin and 
+          Shao, Jiahong and 
+          Yang, Lifang and 
+          Huang, Xianglin},
 title = {EliMRec: Eliminating Single-Modal Bias in Multimedia Recommendation},
 year = {2022},
 publisher = {Association for Computing Machinery},
