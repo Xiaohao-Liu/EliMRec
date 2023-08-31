@@ -2,7 +2,7 @@
 
 __"EliMRec: Eliminating Single-modal Bias in Multimedia Recommendation"__
 
-Xiaohao Liu, Zhulin Tao, Jiahong Shao, Lifang Yang, Xianglin Huang, ACMMM, June 2022
+Xiaohao Liu, Zhulin Tao, Jiahong Shao, Lifang Yang, Xianglin Huang, [ACMMM](https://dl.acm.org/doi/abs/10.1145/3503161.3548404), June 2022
 
 We explored single-modal bias by revealing the inner working of multi-modal fusion and achieved a generic framework EliMRec so as to eliminate single-modal bias in multimedia recommendation.
 
