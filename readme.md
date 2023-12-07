@@ -38,7 +38,7 @@ author = {Liu, Xiaohao and
           Shao, Jiahong and 
           Yang, Lifang and 
           Huang, Xianglin},
-title = {EliMRec: Eliminating Single-Modal Bias in Multimedia Recommendation},
+title = {EliMRec: Eliminating Single-modal Bias in Multimedia Recommendation},
 year = {2022},
 publisher = {Association for Computing Machinery},
 doi = {10.1145/3503161.3548404},
